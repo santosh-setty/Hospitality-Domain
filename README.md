@@ -24,4 +24,79 @@ The project is built using a **Star Schema Data Model** with the following table
 
 ---
 
-# 🧩 Data Model (Star Schema)
+
+---
+
+## 📈 Key KPIs Implemented
+
+| KPI | Description |
+|-----|-------------|
+| Total Revenue | **1.71 Billion** |
+| Cancellation Rate | **24.83%** |
+| Occupancy Rate | **57.87%** |
+| DSRN | Daily Sellable Room Nights |
+| DBRN | Daily Booked Room Nights |
+| DURN | Daily Utilized Room Nights |
+| RevPAR | Revenue per Available Room |
+| RevPUR | Revenue per Utilized Room |
+
+---
+
+## 📊 Dashboard Insights
+
+- Revenue distribution across **Luxury vs Business category hotels**
+- Booking platform performance (**MakeMyTrip, LogTrip, Direct Online, etc.**)
+- Weekly analysis of **occupancy, cancellations, and utilization trends**
+- Property-level performance comparison including **revenue, realization %, and bookings**
+
+---
+
+## 🎛 Interactive Features
+
+- Dynamic slicers for **City, Hotel Category, Property Name, Room Class, and Week**
+- KPI tooltips with detailed trend analysis
+- Interactive visuals for drilling into hotel performance
+
+---
+
+## 🛠 Tools & Skills Used
+
+- Power BI
+- DAX
+- Data Modeling
+- KPI Design
+- Data Visualization
+- Dashboard Design
+
+---
+
+## 💡 Key Learning Outcomes
+
+- Designing business KPIs for hospitality analytics
+- Creating interactive dashboards with slicers and tooltips
+- Implementing DAX measures for revenue, occupancy, and booking analysis
+- Structuring a **star schema data model** for performance reporting
+
+---
+
+## 📌 Project Highlights
+
+✔ Interactive Power BI dashboard  
+✔ Hospitality domain data analysis  
+✔ Advanced KPI calculations using DAX  
+✔ Star schema data modeling  
+
+---
+
+
+---
+
+## 📬 Feedback
+
+Feedback and suggestions are always welcome!
+
+---
+
+## 🔖 Tags
+
+`Power BI` `Data Analytics` `Business Intelligence` `Dashboard Design` `Hospitality Analytics`
